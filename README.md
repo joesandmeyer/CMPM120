@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -711,3 +712,7 @@
   </body>
 </html>
 
+=======
+# CMPM120
+for class
+>>>>>>> 6ae52cac72da178509c9ba07fcd7210ef4847e4b
